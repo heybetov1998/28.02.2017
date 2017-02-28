@@ -1,0 +1,22 @@
+.wrapper {
+    width: 800px;
+    height: 800px;
+    border: 5px solid red;
+    margin: 0 auto;
+}
+
+.column {
+    height: 100px;
+    width: 100px;
+    background: black;
+    float: left;
+}
+.columnWhite{
+    height: 100px;
+    width: 100px;
+    background: white;
+    float: left;
+}
+.clear {
+    clear: both;
+}
